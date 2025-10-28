@@ -55,6 +55,10 @@ Comparative plots include:
 
 ---
 
+## 🧾 Notebook
+📓 **Main Notebook:** [DL_Project_Group_10.ipynb](DL_Project_Group_10.ipynb)
+
+
 ## 🧾 Links  
 - 📘 **Colab Notebook:** [View Here](https://colab.research.google.com/drive/1MSPYHMVsgyauyEFUHLlCmLd2CL6ktqIw?usp=sharing)  
 - 📊 **Dataset:** [Kaggle Dataset](https://www.kaggle.com/datasets/propanon/uci-cardiotocography)
