@@ -65,7 +65,7 @@ Comparative plots include:
 
 ---
 ## 🖼️ Project Poster
-![Poster Preview](POSTER.png)
+![Poster Preview](POSTER.PNG)
 
 ## 🧰 Technologies Used  
 - Python  
