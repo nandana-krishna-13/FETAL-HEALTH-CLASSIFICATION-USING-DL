@@ -64,6 +64,8 @@ Comparative plots include:
 - 📊 **Dataset:** [Kaggle Dataset](https://www.kaggle.com/datasets/propanon/uci-cardiotocography)
 
 ---
+## 🖼️ Project Poster
+![Poster Preview](POSTER.png)
 
 ## 🧰 Technologies Used  
 - Python  
